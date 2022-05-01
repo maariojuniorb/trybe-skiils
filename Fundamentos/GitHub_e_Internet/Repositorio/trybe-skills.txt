@@ -2,3 +2,5 @@ O que eu vou aprender na trybe:
 - Unix
 - Bash
 - Git
+
+Esse foi meu primeiro contato com git.
